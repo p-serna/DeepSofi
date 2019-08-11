@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /users/bssn/serna/SyntheticData
-python3 generatingimg.py
+cd /mnt/data/synthetic/
+python3 generatingimg4p.py
